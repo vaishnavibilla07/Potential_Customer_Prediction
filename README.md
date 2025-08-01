@@ -29,12 +29,6 @@ By leveraging historical lead data, the project performs in-depth exploratory da
 6. **Make Predictions:** Utilize the final model to predict lead conversion probabilities on new or unseen data.
 7. **Interpret Results:** Use generated reports and visualizations to draw business insights that can guide marketing and sales strategies.
 
-## Folder Structure
-- `data/` – Raw and processed datasets required for analysis and modeling.
-- `notebooks/` – Jupyter notebooks documenting exploratory analysis, feature engineering, and model experimentation.
-- `src/` – Script files for automated data processing, model training, and evaluation.
-- `README.md` – This detailed project overview and instructions.
-- `requirements.txt` – List of Python libraries required to run the project.
 
 ## Contribution
 Contributions are welcome! Feel free to raise issues or submit pull requests for bug fixes, enhancements, or new features to improve the prediction model or expand its capabilities.
